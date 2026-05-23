@@ -1,0 +1,1 @@
+var json_Hospitals_7 = {"type":"FeatureCollection","name":"Hospitals_7","features":[{"type":"Feature","properties":{"NAM":"District Hospital Dolpa","NO_BDS":15.0,"NO_DOC":5.0,"Pharmacy":"yes"},"geometry":{"type":"Point","coordinates":[82.8910239,28.9573222]}}]}
